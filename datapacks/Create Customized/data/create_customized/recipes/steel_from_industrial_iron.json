@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "createdeco:industrial_iron_ingot"
+    },
+    "result": "ad_astra:steel_ingot"
+}

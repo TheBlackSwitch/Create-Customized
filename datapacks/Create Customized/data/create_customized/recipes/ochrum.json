@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"item": "minecraft:gold_ingot"
+	  },
+	  {
+		"item": "minecraft:stone"
+	  },
+	  {
+		"fluid": "minecraft:lava",
+		"nbt": {},
+		"amount": 100
+	  }
+	],
+	"results": [
+	  {
+		"item": "create:ochrum",
+		"count": 1
+	  }
+	]
+  }

@@ -1,0 +1,20 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+	  {
+		"item": "minecraft:cobblestone",
+		"count": 2
+	  },
+	  {
+		"fluid": "minecraft:lava",
+		"nbt": {},
+		"amount": 100
+	  }
+	],
+	"results": [
+	  {
+		"item": "minecraft:deepslate",
+		"count": 1
+	  }
+	]
+  }

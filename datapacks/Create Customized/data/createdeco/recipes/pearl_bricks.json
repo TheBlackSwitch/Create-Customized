@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "S": {
+            "item": "minecraft:diorite"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BBB"
+    ],
+    "result": {
+        "count": 8,
+        "item": "createdeco:pearl_bricks"
+    }
+}

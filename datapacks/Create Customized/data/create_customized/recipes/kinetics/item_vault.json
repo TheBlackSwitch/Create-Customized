@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "C",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "createdeco:industrial_iron_sheet"
+    },
+    "C": {
+      "tag": "forge:barrels/wooden"
+    }
+  },
+  "result": {
+    "item": "create:item_vault",
+    "count":  2
+  }
+}

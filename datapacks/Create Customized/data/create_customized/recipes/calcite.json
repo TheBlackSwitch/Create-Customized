@@ -1,0 +1,22 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+	  {
+		"item": "minecraft:cobblestone"
+	  },
+	  {
+		"item": "create:limestone"
+	  },
+	  {
+		"fluid": "minecraft:lava",
+		"nbt": {},
+		"amount": 50
+	  }
+	],
+	"results": [
+	  {
+		"item": "minecraft:calcite",
+		"count": 1
+	  }
+	]
+  }

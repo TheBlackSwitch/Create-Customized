@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "L": {
+            "item": "create:polished_rose_quartz"
+        },
+        "N": {
+            "item": "createdeco:industrial_iron_sheet"
+        }
+    },
+    "pattern": [
+        "L",
+        "N"
+    ],
+    "result": {
+        "item": "create:electron_tube",
+        "count": 2
+    }
+}

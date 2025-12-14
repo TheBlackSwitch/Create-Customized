@@ -1,0 +1,32 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+        "A": {
+            "item": "create:electron_tube"
+        },
+        "C": {
+            "item": "create:brass_casing"
+        },
+        "S": {
+            "item": "create:golden_sheet"
+        },
+        "H": {
+            "item": "create:precision_mechanism"
+        },
+        "R": {
+            "item": "chunkloaders:basic_chunk_loader"
+        }
+    },
+    "pattern": [
+        " ACA ",
+        "AHSHA",
+        "CSRSC",
+        "AHSHA",
+        " ACA "
+    ],
+    "result": {
+        "count": 1,
+        "item": "chunkloaders:advanced_chunk_loader"
+    }
+  }

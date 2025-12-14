@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:brick"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "result": {
+        "count": 8,
+        "item": "minecraft:air"
+    }
+}

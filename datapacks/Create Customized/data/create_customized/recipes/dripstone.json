@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"item": "minecraft:clay_ball"
+	  },
+	  {
+		"item": "minecraft:granite"
+	  },
+	  {
+		"fluid": "minecraft:lava",
+		"nbt": {},
+		"amount": 50
+	  }
+	],
+	"results": [
+	  {
+		"item": "minecraft:dripstone_block",
+		"count": 1
+	  }
+	]
+  }

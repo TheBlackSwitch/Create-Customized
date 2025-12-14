@@ -1,0 +1,10 @@
+{
+    "item.createbb.blue_meth": "Blue Meth",
+    "item.createbb.white_meth": "White Meth",
+    "fluid.createbb.liquid_methamphetamine": "White Meth Solution",
+    "fluid.createbb.liquid_blue_methamphetamine": "Blue Meth Solution",
+    "block.createbb.white_meth_tray": "White Meth Tray",
+    "block.createbb.blue_meth_tray": "Blue Meth Tray",
+    "item.createbb.liquid_methamphetamine_bucket": "Bucket of White Meth Solution",
+    "item.createbb.liquid_blue_methamphetamine_bucket": "Bucket of Blue Meth Solution"
+}

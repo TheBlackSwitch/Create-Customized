@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "S": {
+            "item": "create:crimsite"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BBB"
+    ],
+    "result": {
+        "count": 8,
+        "item": "createdeco:scarlet_bricks"
+    }
+}

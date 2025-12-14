@@ -1,0 +1,23 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+    	{
+    		"item": "minecraft:deepslate"
+    	},
+        {
+    		"item": "minecraft:calcite"
+    	},
+		{
+		  "fluid": "minecraft:lava",
+		  "nbt": {},
+		  "amount": 50
+		}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:tuff",
+			"count": 1,
+			"chance": 0.8
+		}
+	]
+}

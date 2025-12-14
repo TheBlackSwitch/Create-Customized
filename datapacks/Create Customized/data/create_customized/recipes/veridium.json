@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"item": "minecraft:copper_ingot"
+	  },
+	  {
+		"item": "minecraft:stone"
+	  }
+	],
+	"results": [
+	  {
+		"item": "create:veridium",
+		"count": 1
+	  }
+	],
+	"heatRequirement": "heated"
+  }

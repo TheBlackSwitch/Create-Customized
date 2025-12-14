@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "I",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "createdeco:industrial_iron_sheet"
+    },
+    "I": {
+      "item": "createdeco:industrial_iron_ingot"
+    }
+  },
+  "result": {
+    "count": 8,
+    "item": "create:chute"
+  }
+}

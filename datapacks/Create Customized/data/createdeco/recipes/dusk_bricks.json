@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "S": {
+            "item": "create:scorchia"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "BSB",
+        "BBB"
+    ],
+    "result": {
+        "count": 8,
+        "item": "createdeco:dusk_bricks"
+    }
+}

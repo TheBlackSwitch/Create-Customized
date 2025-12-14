@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"item": "create:zinc_ingot"
+	  },
+	  {
+		"item": "minecraft:stone"
+	  }
+	],
+	"results": [
+	  {
+		"item": "create:asurine",
+		"count": 1
+	  }
+	],
+	"heatRequirement": "heated"
+  }

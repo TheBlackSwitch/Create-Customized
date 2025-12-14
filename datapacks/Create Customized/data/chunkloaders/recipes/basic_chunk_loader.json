@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+      "A": {
+          "item": "create:andesite_alloy"
+      },
+      "C": {
+          "item": "create:andesite_casing"
+      },
+      "S": {
+          "item": "createdeco:industrial_iron_sheet"
+      },
+      "H": {
+          "item": "create_sa:heat_engine"
+      },
+      "R": {
+          "item": "minecraft:respawn_anchor"
+      }
+  },
+  "pattern": [
+      " ACA ",
+      "AHSHA",
+      "CSRSC",
+      "AHSHA",
+      " ACA "
+  ],
+  "result": {
+      "count": 2,
+      "item": "chunkloaders:basic_chunk_loader"
+  }
+}

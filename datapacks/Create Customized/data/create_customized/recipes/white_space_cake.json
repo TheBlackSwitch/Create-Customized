@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "createbb:white_meth"
+        },
+        {
+            "item": "farmersdelight:cake_slice"
+        }
+    ],
+    "result": {
+        "item": "edible_meth:white_stuff",
+        "count": 1
+    }
+}
